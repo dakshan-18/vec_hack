@@ -1,32 +1,65 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <title>Google Maps Test</title>
-    <style>
-      #map {
-        height: 500px;
-        width: 100%;
-      }
-    </style>
-  </head>
-  <body>
-    <h2>Google Map Test</h2>
-    <div id="map"></div>
+<head>
+  <title>Nearby Hospitals</title>
+  <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+  <link rel="stylesheet"href="{{ url_for('static', filename='css/styles.css') }}"/>
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/hospitals.css') }}">
+</head>
+<body>
+  <header>
+    <div class="logo">
+      <img src="{{ url_for('static', filename='images/project_logo.jpg') }}" alt="Healthcare Assistant Logo"/>
 
-    <script>
-      function initMap() {
-        const location = { lat: 13.0827, lng: 80.2707 }; // Example: Chennai
-        const map = new google.maps.Map(document.getElementById("map"), {
-          zoom: 10,
-          center: location,
-        });
-        new google.maps.Marker({ position: location, map: map });
-      }
-    </script>
+      <span>AI MEDICAL CARE</span>
+    </div>
+    <nav>
+      <ul>
+        <li><a href="{{ url_for('render_home_page') }}">Home</a></li>
+        <li><a href="{{ url_for('render_aboutus') }}">About Us</a></li>
+        <!-- About Us Page -->
+        <li><a href="{{ url_for('render_contact') }}">Contact</a></li>
+        <!-- Contact Page -->
+        <!-- <li><a href="{{ url_for('hospital') }}">Hospitals</a></li> -->
+        <!-- Contact Page -->
+        <li>
+          <a href="{{ url_for('render_login_page') }}" class="login-btn"
+            >Login</a
+          >
+        </li>
+        <!-- signup Page -->
+        <li>
+          <a href="{{ url_for('render_signup_page') }}" class="login-btn"
+            >Signup</a
+          >
+        </li>
+        <!-- Login Page -->
+  
+        
+      </ul>
+    </nav>
+  </header>
+  <h1>Nearby Hospitals</h1>
+  <div id="map"></div>
+  <table border="1">
+    <thead>
+      <tr>
+        <th>Name</th>
+        <th>Phone</th>
+        <th>Address</th>
+        <th>Hours</th>
+        <th>Location Link</th>
+      </tr>
+    </thead>
+    <tbody id="hospital-table-body">
+      <!-- Filled dynamically -->
+    </tbody>
+  </table>
+  
 
-    <!-- Replace YOUR_API_KEY with your actual API key -->
-    <script async defer
-      src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBx_TtUeZAif9_8cELXz1X7Mtm-u7s1UdQ&callback=initMap">
-    </script>
-  </body>
+
+
+  <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+  <script src="{{ url_for('static', filename='js/script.js') }}"></script>
+</body>
 </html>

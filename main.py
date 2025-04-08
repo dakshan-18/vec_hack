@@ -1,7 +1,8 @@
-from flask import Flask, request, jsonify, render_template, session, redirect, url_for
+from flask import Flask, request, jsonify, render_template, session, redirect, url_for, send_from_directory
 from groq import Groq
 import mysql.connector
 from mysql.connector import Error
+import os
 
 app = Flask(__name__)
 app.secret_key = "1234"
@@ -161,6 +162,10 @@ def home():
 @app.route("/hospital")
 def hospital():
     return render_template("hospitals.html")
+
+@app.route('/hospitals.json')
+def hospitals():
+    return send_from_directory(os.getcwd(), 'hospitals.json')
 
 if __name__ == '__main__':
     app.run(debug=True)

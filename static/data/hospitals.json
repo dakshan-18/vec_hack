@@ -1,0 +1,202 @@
+[
+    {
+        "Place_name": "Lake View Hospital",
+        "type": "Hospital",
+        "Phone": "044 2565 9911",
+        "Address1": "Flat No, 100A, Perambur Red Hills High Rd, Akbar Nagar, Kalpalayam, Kolathur, Chennai, Tamil Nadu 600099",
+        "Hours": "Wednesday:[Open 24 hours],Thursday:[Open 24 hours],Friday:[Open 24 hours],Saturday:[Open 24 hours],Sunday:[Open 24 hours],Monday:[Open 24 hours],Tuesday:[Open 24 hours]",
+        "Location": "https://www.google.com/maps?cid=0x3a52648d5fa0e62f:0x7394751a59f9ad4b",
+        "Latitude": 13.1368453,
+        "Longitude": 80.2086759
+    },
+    {
+        "Place_name": "KVT Multi Speciality Hospital | 24hrs Emergency Multispeciality Hospital | Moolakadai, Chennai",
+        "type": "Hospital",
+        "Phone": "07397 251 333",
+        "Address1": "Plot No. 1, 2,3, Ethiraj Samy Salai Rd, Erukkancheri, Kodungaiyur, Chennai, Tamil Nadu 600118",
+        "Hours": "Wednesday:[Open 24 hours],Thursday:[Open 24 hours],Friday:[Open 24 hours],Saturday:[Open 24 hours],Sunday:[Open 24 hours],Monday:[Open 24 hours],Tuesday:[Open 24 hours]",
+        "Location": "https://www.google.com/maps?cid=0x3a5265a0abba69dd:0x676f64da5ff700e9",
+        "Latitude": 13.1267214,
+        "Longitude": 80.2489811
+    },
+    {
+        "Place_name": "Sir Ivan Stedford Hospital",
+        "type": "Hospital",
+        "Phone": "044 2658 3256",
+        "Address1": "7, Madras Thiruvallur High Rd, Shobha Nagar, OT, Ambattur, Chennai, Tamil Nadu 600053",
+        "Hours": "Wednesday:[Open 24 hours],Thursday:[Open 24 hours],Friday:[Open 24 hours],Saturday:[Open 24 hours],Sunday:[Open 24 hours],Monday:[Open 24 hours],Tuesday:[Open 24 hours]",
+        "Location": "https://www.google.com/maps?cid=0x3a52630036b889a3:0xb00561995608a6e",
+        "Latitude": 13.1255449,
+        "Longitude": 80.1440334
+    },
+    {
+        "Place_name": "Varamm Healthcare Pvt Ltd - Multispecialty Hospital Korattur",
+        "type": "Hospital",
+        "Phone": "090479 98865",
+        "Address1": "Plot no . 780A, 31, st street, TNHB Colony, Korattur, East, Chennai, Tamil Nadu 600080",
+        "Hours": "Wednesday:[Open 24 hours],Thursday:[Open 24 hours],Friday:[Open 24 hours],Saturday:[Open 24 hours],Sunday:[Open 24 hours],Monday:[Open 24 hours],Tuesday:[Open 24 hours]",
+        "Location": "https://www.google.com/maps?cid=0x3a52650e34ef1199:0xd4bddde9742359ef",
+        "Latitude": 13.1099565,
+        "Longitude": 80.1836659
+    },
+    {
+        "Place_name": "Vihaa Hospital",
+        "type": "Hospital",
+        "Phone": "097104 00000",
+        "Address1": "3rd Ave, Block E, Annanagar East, Chennai, Tamil Nadu 600102",
+        "Hours": "Wednesday:[Open 24 hours],Thursday:[Open 24 hours],Friday:[Open 24 hours],Saturday:[Open 24 hours],Sunday:[Open 24 hours],Monday:[Open 24 hours],Tuesday:[Open 24 hours]",
+        "Location": "https://www.google.com/maps?cid=0x3a526425cac6f0db:0x6deb8c146c12e7b4",
+        "Latitude": 13.0873339,
+        "Longitude": 80.2183222
+    },
+    {
+        "Place_name": "Faith Multispeciality Hospital",
+        "type": "Hospital",
+        "Phone": "095001 70383",
+        "Address1": "New. No: 116 & 117, S Mada St, near AGS Cinemas, Seeyalam, Villivakkam, Chennai, Tamil Nadu 600049",
+        "Hours": "Wednesday:[Open 24 hours],Thursday:[Open 24 hours],Friday:[Open 24 hours],Saturday:[Open 24 hours],Sunday:[Open 24 hours],Monday:[Open 24 hours],Tuesday:[Open 24 hours]",
+        "Location": "https://www.google.com/maps?cid=0x3a52646a739d0d19:0xcfe16ea468a11c8b",
+        "Latitude": 13.1056065,
+        "Longitude": 80.2101272
+    },
+    {
+        "Place_name": "The Madras Medical Mission Hospital",
+        "type": "Hospital",
+        "Phone": "1800 123 599 999",
+        "Address1": "4-A, Dr, Mogappair, Chennai, Tamil Nadu 600037",
+        "Hours": "Wednesday:[Open 24 hours],Thursday:[Open 24 hours],Friday:[Open 24 hours],Saturday:[Open 24 hours],Sunday:[Open 24 hours],Monday:[Open 24 hours],Tuesday:[Open 24 hours]",
+        "Location": "https://www.google.com/maps?cid=0x3a5265864b155555:0xb24bc1d5860e3f08",
+        "Latitude": 13.0859697,
+        "Longitude": 80.187141
+    },
+    {
+        "Place_name": "MGM Healthcare",
+        "type": "Hospital",
+        "Phone": "044 4524 2407",
+        "Address1": "Old No 54, 72, Nelson Manickam Rd, Collectorate Colony, Aminjikarai, Chennai, Tamil Nadu 600029",
+        "Hours": "Wednesday:[Open 24 hours],Thursday:[Open 24 hours],Friday:[Open 24 hours],Saturday:[Open 24 hours],Sunday:[Open 24 hours],Monday:[Open 24 hours],Tuesday:[Open 24 hours]",
+        "Location": "https://www.google.com/maps?cid=0x3a5267ae643b0ee7:0x9405bf4578941d04",
+        "Latitude": 13.0712513,
+        "Longitude": 80.2220557
+    },
+    {
+        "Place_name": "Chennai Health Foundation",
+        "type": "Hospital",
+        "Phone": "084382 82144",
+        "Address1": "T.M Voil, Oppo To Vivekanadha School, Eskay Tower, 2B2, Madras Thiruvallur High Rd, Aishwarya Nagar, Ambattur, Chennai, Tamil Nadu 600053",
+        "Hours": "Wednesday:[Open 24 hours],Thursday:[Open 24 hours],Friday:[Open 24 hours],Saturday:[Open 24 hours],Sunday:[Open 24 hours],Monday:[Open 24 hours],Tuesday:[Open 24 hours]",
+        "Location": "https://www.google.com/maps?cid=0x3a5262fe8712be7d:0xce2fe1b43f38e921",
+        "Latitude": 13.1281077,
+        "Longitude": 80.140086
+    },
+    {
+        "Place_name": "Poovanthi Rehabilitation Centre",
+        "type": "Hospital",
+        "Phone": "095000 18304",
+        "Address1": "Thirumalai Nagar, Annexed No: 9, Thirumalai Nagar, Annexed, 100 Feet Rd, Kolathur, Chennai, Tamil Nadu 600099",
+        "Hours": "Wednesday:[Open 24 hours],Thursday:[Open 24 hours],Friday:[Open 24 hours],Saturday:[Open 24 hours],Sunday:[Open 24 hours],Monday:[Open 24 hours],Tuesday:[Open 24 hours]",
+        "Location": "https://www.google.com/maps?cid=0x3a525dd15407896d:0x1185f7e3fc7fcc96",
+        "Latitude": 13.1218673,
+        "Longitude": 80.1996929
+    },
+    {
+        "Place_name": "Sundaram Medical Foundation Dr. Rangarajan Memorial Hospital",
+        "type": "Hospital",
+        "Phone": "044 2614 4100",
+        "Address1": "9C, 4th Ave, Shanthi Colony, AK Block, Anna Nagar, Chennai, Tamil Nadu 600040",
+        "Hours": "Wednesday:[Open 24 hours],Thursday:[Open 24 hours],Friday:[Open 24 hours],Saturday:[Open 24 hours],Sunday:[Open 24 hours],Monday:[Open 24 hours],Tuesday:[Open 24 hours]",
+        "Location": "https://www.google.com/maps?cid=0x3a52666bfc66380d:0x158c2ce2fe86c7bc",
+        "Latitude": 13.0828097,
+        "Longitude": 80.2047755
+    },
+    {
+        "Place_name": "Lifeline Multispeciality Hospitals",
+        "type": "Hospital",
+        "Phone": "044 4294 9495",
+        "Address1": "47/3, New Avadi Rd, Alagappa Nagar, Kilpauk, Chennai, Tamil Nadu 600010",
+        "Hours": "Wednesday:[Open 24 hours],Thursday:[Open 24 hours],Friday:[Open 24 hours],Saturday:[Open 24 hours],Sunday:[Open 24 hours],Monday:[Open 24 hours],Tuesday:[Open 24 hours]",
+        "Location": "https://www.google.com/maps?cid=0x3a52667fb51df4c1:0xda54eb8cae181334",
+        "Latitude": 13.0781057,
+        "Longitude": 80.2337083
+    },
+    {
+        "Place_name": "Sri Devi Hospital",
+        "type": "Hospital",
+        "Phone": "",
+        "Address1": "1620, 16th St, Bharathi Colony, Bharathi Nagar, Anna Nagar, Chennai, Tamil Nadu 600040",
+        "Hours": "Wednesday:[Open 24 hours],Thursday:[Open 24 hours],Friday:[Open 24 hours],Saturday:[Open 24 hours],Sunday:[Open 24 hours],Monday:[Open 24 hours],Tuesday:[Open 24 hours]",
+        "Location": "https://www.google.com/maps?cid=0x3a52641aeebe70ed:0x6ee0d3576d59cb48",
+        "Latitude": 13.0889129,
+        "Longitude": 80.1994407
+    },
+    {
+        "Place_name": "Dr. Mehta's Hospitals",
+        "type": "Hospital",
+        "Phone": "044 4227 1001",
+        "Address1": "No.2/1,2, 3, Mc Nichols Road 3rd Ln, Chetpet, Chennai, Tamil Nadu 600031",
+        "Hours": "Wednesday:[Open 24 hours],Thursday:[Open 24 hours],Friday:[Open 24 hours],Saturday:[Open 24 hours],Sunday:[Open 24 hours],Monday:[Open 24 hours],Tuesday:[Open 24 hours]",
+        "Location": "https://www.google.com/maps?cid=0x3a5265e51a427cad:0x3c7ce71e604b9f23",
+        "Latitude": 13.0716109,
+        "Longitude": 80.2405937
+    },
+    {
+        "Place_name": "SIMS Hospitals - Multi Speciality Hospital in chennai",
+        "type": "Hospital",
+        "Phone": "044 2000 2001",
+        "Address1": "Metro No.1 Jawaharlal Nehru Road, Landmark:, next to Vadapalani, Chennai, Tamil Nadu 600026",
+        "Hours": "Wednesday:[Open 24 hours],Thursday:[Open 24 hours],Friday:[Open 24 hours],Saturday:[Open 24 hours],Sunday:[Open 24 hours],Monday:[Open 24 hours],Tuesday:[Open 24 hours]",
+        "Location": "https://www.google.com/maps?cid=0x3a5266ea2747db13:0x2ffbe4fed8d74bd2",
+        "Latitude": 13.0516983,
+        "Longitude": 80.2118133
+    },
+    {
+        "Place_name": "Be Well Hospitals Kilpauk",
+        "type": "Hospital",
+        "Phone": "072990 50099",
+        "Address1": "15, Bank St, Kilpauk, Chennai, Tamil Nadu 600010",
+        "Hours": "Wednesday:[Open 24 hours],Thursday:[Open 24 hours],Friday:[Open 24 hours],Saturday:[Open 24 hours],Sunday:[Open 24 hours],Monday:[Open 24 hours],Tuesday:[Open 24 hours]",
+        "Location": "https://www.google.com/maps?cid=0x3a52643099ac1f1b:0xbf5eb66c842bb7b3",
+        "Latitude": 13.0807349,
+        "Longitude": 80.2340002
+    },
+    {
+        "Place_name": "K.M.Multispeciality Hospita lMadhavaram",
+        "type": "Hospital",
+        "Phone": "044 4850 6933",
+        "Address1": "8&9, Madhavaram Milk Colony Rd, Annai Velankanni Nagar, Madhavaram, Chennai, Tamil Nadu 600051",
+        "Hours": "Wednesday:[Open 24 hours],Thursday:[Open 24 hours],Friday:[Open 24 hours],Saturday:[Open 24 hours],Sunday:[Open 24 hours],Monday:[Open 24 hours],Tuesday:[Open 24 hours]",
+        "Location": "https://www.google.com/maps?cid=0x3a526527387aaff7:0x4e0f47cc822400a",
+        "Latitude": 13.1449658,
+        "Longitude": 80.2397732
+    },
+    {
+        "Place_name": "CHENNAI NATIONAL HOSPITAL",
+        "type": "Hospital",
+        "Phone": "089390 33333",
+        "Address1": "12, Jaffar Sarang St, Parrys, George Town, Chennai, Tamil Nadu 600001",
+        "Hours": "Wednesday:[Open 24 hours],Thursday:[Open 24 hours],Friday:[Open 24 hours],Saturday:[Open 24 hours],Sunday:[Open 24 hours],Monday:[Open 24 hours],Tuesday:[Open 24 hours]",
+        "Location": "https://www.google.com/maps?cid=0x3a526f45b07102d1:0x45721eef9832613d",
+        "Latitude": 13.096446,
+        "Longitude": 80.2915071
+    },
+    {
+        "Place_name": "ANAND HOSPITAL",
+        "type": "Hospital",
+        "Phone": "",
+        "Address1": "201, Kamarajar Salai, Market Road, Manali, Chennai, Tamil Nadu 600068",
+        "Hours": "Wednesday:[Open 24 hours],Thursday:[Open 24 hours],Friday:[Open 24 hours],Saturday:[Open 24 hours],Sunday:[Open 24 hours],Monday:[Open 24 hours],Tuesday:[Open 24 hours]",
+        "Location": "https://www.google.com/maps?cid=0x3a526456ef0a21cd:0xb8046bf6c33cc35f",
+        "Latitude": 13.1637504,
+        "Longitude": 80.2581454
+    },
+    {
+        "Place_name": "Sen Hospital",
+        "type": "Hospital",
+        "Phone": "044 2558 6896",
+        "Address1": "New No. 51, Old, 18, Bunder Garden St, opp. LOURDES GIRLS HIGHER SECONDARY SCHOOL, Perambur, Chennai, Tamil Nadu 600011",
+        "Hours": "Wednesday:[Open 24 hours],Thursday:[Open 24 hours],Friday:[Open 24 hours],Saturday:[Open 24 hours],Sunday:[Open 24 hours],Monday:[Open 24 hours],Tuesday:[Open 24 hours]",
+        "Location": "https://www.google.com/maps?cid=0x3a5265b0be5f5e59:0x1d547397bd123d34",
+        "Latitude": 13.110833,
+        "Longitude": 80.2419017
+    }
+]

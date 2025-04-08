@@ -17,9 +17,11 @@
             </div>
             <nav>
               <ul>
+                <li><a href="{{ url_for('render_home_page') }}">Home</a></li>
                 <li><a href="{{ url_for('render_aboutus') }}">About Us</a></li>
                 <!-- About Us Page -->
                 <li><a href="{{ url_for('render_contact') }}">Contact</a></li>
+                <li><a href="{{ url_for('hospital') }}">Hospitals</a></li>
                 <!-- Contact Page -->
                 <li>
                   <a href="{{ url_for('render_login_page') }}" class="login-btn"
@@ -42,11 +44,13 @@
         
         <!-- Updated Form -->
         <form action="/predict" method="post" id="symptom-form">
-            <div class="input-section">
-                <label for="symptoms">Enter Your Symptoms:</label>
-                <input type="text" id="symptoms" name="symptoms" placeholder="Type symptoms like fever, cough, headache..." required />
-                <button type="submit">Predict</button>
-            </div>
+          <div class="input-section">
+            <label for="symptoms">Enter Your Symptoms:</label>
+            <input type="text" id="symptoms" name="symptoms" placeholder="Type symptoms like fever, cough, headache..." required />
+            <button type="submit">Predict</button>
+            <a href="{{ url_for('hospital') }}" class="hospital-btn">Check Nearby Hospitals</a>
+        </div>
+        
         </form>
 
         {% if response_data %}
