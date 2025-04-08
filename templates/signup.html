@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Sign Up - AI Healthcare Assistant</title>
+    <link rel="stylesheet"href="{{ url_for('static', filename='css/signup.css') }}"/>
+    <link rel="stylesheet"href="{{ url_for('static', filename='css/styles.css') }}"/>
+  </head>
+  <body>
+        <!-- Header -->
+        <header>
+          <div class="logo">
+            <img src="{{ url_for('static', filename='images/project_logo.jpg') }}" alt="Healthcare Assistant Logo"/>
+    
+            <span>AI MEDICAL CARE</span>
+          </div>
+          <nav>
+            <ul>
+              <li><a href="{{ url_for('render_aboutus') }}">About Us</a></li>
+              <!-- About Us Page -->
+              <li><a href="{{ url_for('render_contact') }}">Contact</a></li>
+              <!-- Contact Page -->
+              <li>
+                <a href="{{ url_for('render_login_page') }}" class="login-btn"
+                  >Login</a
+                >
+              </li>
+              <!-- signup Page -->
+              <li>
+                <a href="{{ url_for('render_signup_page') }}" class="login-btn"
+                  >Signup</a
+                >
+              </li>
+              <!-- Login Page -->
+              
+            </ul>
+          </nav>
+        </header>
+    <!-- Sign-Up Container -->
+    <div class="signup-container">
+      <h1 class="fade-in">Create Your Account</h1>
+      <p class="fade-in-delay">Join us for AI-powered healthcare insights</p>
+
+      <form action="/signup" method="post" class="signup-form fade-in">
+        <div class="input-group">
+          <input
+            type="text"
+            id="FullName"
+            name="FullName"
+            placeholder="Full Name"
+            required
+          />
+        </div>
+        <div class="input-group">
+          <input
+            type="email"
+            id="Email"
+            name="Email"
+            placeholder="Email"
+            required
+          />
+        </div>
+        <div class="input-group">
+          <input
+            type="password"
+            id="Password"
+            name="Password"
+            placeholder="Password"
+            required
+          />
+        </div>
+        <div class="input-group">
+          <input
+            type="password"
+            id="ConfirmPassword"
+            name="ConfirmPassword"
+            placeholder="Confirm Password"
+            required
+          />
+        </div>
+        <button type="submit" class="cta-button green-bg scale-up">
+          Sign Up
+        </button>
+      </form>
+
+      <p class="fade-in-delay">
+        Already have an account? <a href="login.html">Login</a>
+      </p>
+    </div>
+  </body>
+</html>

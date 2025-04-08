@@ -1,0 +1,88 @@
+
+  
+  /* Signup Container */
+  .signup-container {
+    max-width: 500px;
+    margin: 60px auto;
+    padding: 40px 30px;
+    background: linear-gradient(to right, #e8f5e9, #e0f2f1);
+    border-radius: 12px;
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.08);
+    text-align: center;
+  }
+  
+  .signup-container h1 {
+    font-size: 28px;
+    margin-bottom: 10px;
+    color: #1e293b;
+  }
+  
+  .signup-container p {
+    font-size: 16px;
+    color: #555;
+    margin-bottom: 30px;
+  }
+  
+  /* Form */
+  .signup-form .input-group {
+    margin-bottom: 20px;
+  }
+  
+  .signup-form input {
+    width: 90%;
+    padding: 12px 15px;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    font-size: 15px;
+  }
+  input:focus {
+    outline: none;
+    border-color: #2d6a4f;
+    box-shadow: 0 0 6px rgba(45, 106, 79, 0.5);
+  }
+  
+  /* CTA Button */
+  .cta-button {
+    background-color: #070a05;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 6px;
+    font-size: 16px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .cta-button:hover {
+    background-color: #163125;
+  }
+  
+  /* Animations */
+  .fade-in {
+    animation: fadeIn 1s ease-in;
+  }
+  
+  .fade-in-delay {
+    animation: fadeIn 1.5s ease-in;
+  }
+  
+  .scale-up {
+    transition: transform 0.2s ease;
+  }
+  
+  .scale-up:hover {
+    transform: scale(1.05);
+  }
+  
+  @keyframes fadeIn {
+    from {
+      opacity: 0;
+      transform: translateY(-10px);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+  

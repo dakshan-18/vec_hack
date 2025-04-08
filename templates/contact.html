@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact Us</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/contact.css') }}" />
+    <link rel="stylesheet"href="{{ url_for('static', filename='css/styles.css') }}"/>
+
+</head>
+<body>
+    <!-- Header -->
+         <!-- Header -->
+    <header>
+        <div class="logo">
+            <img src="../static/images/project_logo.jpg" alt="Healthcare Assistant Logo">
+            <span>AI MEDICAL CARE</span>
+        </div>
+        <nav>
+            <ul>
+                <li><a href="{{ url_for('render_home_page') }}">Home</a></li>
+                <li><a href="{{ url_for('render_contact') }}">Contact</a></li>
+                <li>
+                    <a href="{{ url_for('render_login_page') }}" class="login-btn"
+                      >Login</a
+                    >
+                  </li>
+                <li>
+                    <a href="{{ url_for('render_signup_page') }}" class="login-btn"
+                      >Signup</a
+                    >
+                  </li>
+
+
+            </ul>
+        </nav>
+    </header>
+    <div class="contact-container">
+        <h1>Contact Us</h1>
+        <p class="intro">
+          Have questions or feedback about our AI Healthcare Assistant? We're here to help you!
+          Whether you're looking to understand how our AI works, need help using the system, or want to suggest improvements,
+          feel free to reach out. Your health journey matters to us.
+        </p>
+    
+        <p class="context">
+          This platform is designed to be your AI-powered illness assistant — helping you assess symptoms, receive possible disease predictions, and get guided recommendations on diet, doctors, and lifestyle improvements. We want to hear from you to make it even better!
+        </p>
+    
+        <form action="/submit_contact" method="post" class="contact-form">
+          <div class="input-group">
+            <label for="name">Full Name</label>
+            <input type="text" id="name" name="name" placeholder="Enter your full name" required />
+          </div>
+    
+          <div class="input-group">
+            <label for="email">Email Address</label>
+            <input type="email" id="email" name="email" placeholder="Enter your email" required />
+          </div>
+    
+          <div class="input-group">
+            <label for="subject">Subject</label>
+            <input type="text" id="subject" name="subject" placeholder="Let us know what it's about" required />
+          </div>
+    
+          <div class="input-group">
+            <label for="message">Your Message</label>
+            <textarea id="message" name="message" rows="5" placeholder="Write your message here..." required></textarea>
+          </div>
+    
+          <button type="submit" class="submit-btn">Send Message</button>
+        </form>
+    
+        <p class="footer-note">
+          Our team usually responds within 24-48 hours. Thank you for helping us improve AI-driven healthcare.
+        </p>
+      </div>
+</body>
+</html>

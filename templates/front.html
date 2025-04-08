@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>AI Healthcare Assistant</title>
+    <link rel="stylesheet"href="{{ url_for('static', filename='css/front.css') }}"/>
+    <link rel="stylesheet"href="{{ url_for('static', filename='css/styles.css') }}"/>
+  </head>
+  <body>
+    <!-- Header -->
+    <header>
+      <div class="logo">
+        <img src="{{ url_for('static', filename='images/project_logo.jpg') }}" alt="Healthcare Assistant Logo"/>
+
+        <span>AI MEDICAL CARE</span>
+      </div>
+      <nav>
+        <ul>
+          <li><a href="{{ url_for('render_aboutus') }}">About Us</a></li>
+          <!-- About Us Page -->
+          <li><a href="{{ url_for('render_contact') }}">Contact</a></li>
+          <!-- Contact Page -->
+          <li><a href="{{ url_for('hospital') }}">Hospitals</a></li>
+          <!-- Contact Page -->
+          <li>
+            <a href="{{ url_for('render_login_page') }}" class="login-btn"
+              >Login</a
+            >
+          </li>
+          <!-- signup Page -->
+          <li>
+            <a href="{{ url_for('render_signup_page') }}" class="login-btn"
+              >Signup</a
+            >
+          </li>
+          <!-- Login Page -->
+    
+          
+        </ul>
+      </nav>
+    </header>
+
+    <!-- Hero Section -->
+    <section class="hero">
+      <h1 class="fade-in">Welcome to Your AI Healthcare Assistant</h1>
+      <p class="fade-in-delay">
+        Your personal health companion, powered by AI.
+      </p>
+      <a
+        href="{{ url_for('render_bot_page') }}"
+        class="cta-button green-bg scale-up"
+        >Get Started</a
+      >
+      <!-- Get Started Button -->
+    </section>
+
+    <!-- Project Description -->
+    <section class="description">
+      <h2 class="slide-up">What is AI Healthcare Assistant?</h2>
+      <p class="slide-up-delay">
+        AI Healthcare Assistant is an intelligent system designed to analyze
+        user symptoms, predict possible diseases, and provide personalized
+        health recommendations. Powered by AI, this platform ensures quick,
+        reliable, and accessible healthcare guidance.
+      </p>
+    </section>
+
+    <!-- Features -->
+    <section class="features">
+      <h2 class="slide-left">🔍 Key Features</h2>
+      <div class="feature-list">
+        <div class="feature zoom-in">
+          <h3>🔬 Disease Prediction</h3>
+          <p>
+            Enter symptoms, and our AI predicts potential diseases using
+            advanced algorithms.
+          </p>
+        </div>
+        <div class="feature zoom-in">
+          <h3>🥗 Diet & Workouts</h3>
+          <p>
+            Receive personalized diet plans and recommended exercises to improve
+            your health.
+          </p>
+        </div>
+        <div class="feature zoom-in">
+          <h3>👨‍⚕️ Doctor Consultation</h3>
+          <p>
+            Based on your symptoms, get recommendations on which specialist to
+            consult.
+          </p>
+        </div>
+      </div>
+    </section>
+
+    <!-- Call to Action -->
+    <section class="cta-section fade-in">
+      <h2>🌟 Ready to Take Control of Your Health?</h2>
+      <p>Start your health assessment now and get AI-powered insights.</p>
+      <a
+        href="{{ url_for('render_login_page') }}"
+        class="cta-button green-bg scale-up"
+        >Try It Now</a
+      >
+      <!-- Try It Now Button -->
+    </section>
+  </body>
+</html>

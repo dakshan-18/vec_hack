@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Login - AI Healthcare Assistant</title>
+    <link rel="stylesheet"href="{{ url_for('static', filename='css/styles.css') }}"/>
+    <link rel="stylesheet"href="{{ url_for('static', filename='css/login.css') }}"/>
+  </head>
+  <body>
+    <!-- Header -->
+    <header>
+      <div class="logo">
+        <img src="{{ url_for('static', filename='images/project_logo.jpg') }}" alt="Healthcare Assistant Logo"/>
+
+        <span>AI MEDICAL CARE</span>
+      </div>
+      <nav>
+        <ul>
+          <li><a href="{{ url_for('render_aboutus') }}">About Us</a></li>
+          <!-- About Us Page -->
+          <li><a href="{{ url_for('render_contact') }}">Contact</a></li>
+          <!-- Contact Page -->
+          <li>
+            <a href="{{ url_for('render_login_page') }}" class="login-btn"
+              >Login</a
+            >
+          </li>
+          <!-- signup Page -->
+          <li>
+            <a href="{{ url_for('render_signup_page') }}" class="login-btn"
+              >Signup</a
+            >
+          </li>
+          <!-- Login Page -->
+          
+        </ul>
+      </nav>
+    </header>
+    <!-- Login Container -->
+    <div class="login-container">
+      <h1 class="fade-in">Welcome Back</h1>
+      <p class="fade-in-delay">Login to continue</p>
+
+      <form action="/login" method="post" class="login-form fade-in">
+        <div class="input-group">
+          <input type="text" name="Email" placeholder="Username" required />
+        </div>
+        <div class="input-group">
+          <input
+            type="password"
+            name="Password"
+            placeholder="Password"
+            required
+          />
+        </div>
+        <button type="submit" class="cta-button green-bg scale-up">
+          Login
+        </button>
+      </form>
+
+      <p class="fade-in-delay">
+        Don't have an account?
+        <a href="{{ url_for('render_signup_page') }}">Sign Up</a>
+      </p>
+    </div>
+  </body>
+</html>

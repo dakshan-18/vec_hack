@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Personalized Healthcare Assistant</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/main.css') }}">
+    <link rel="stylesheet"href="{{ url_for('static', filename='css/styles.css') }}"/>
+</head>
+<body>
+        <!-- Header -->
+        <header>
+            <div class="logo">
+              <img src="{{ url_for('static', filename='images/project_logo.jpg') }}" alt="Healthcare Assistant Logo"/>
+      
+              <span>AI MEDICAL CARE</span>
+            </div>
+            <nav>
+              <ul>
+                <li><a href="{{ url_for('render_aboutus') }}">About Us</a></li>
+                <!-- About Us Page -->
+                <li><a href="{{ url_for('render_contact') }}">Contact</a></li>
+                <!-- Contact Page -->
+                <li>
+                  <a href="{{ url_for('render_login_page') }}" class="login-btn"
+                    >Login</a
+                  >
+                </li>
+                <!-- signup Page -->
+                <li>
+                  <a href="{{ url_for('render_signup_page') }}" class="login-btn"
+                    >Signup</a
+                  >
+                </li>
+                <!-- Login Page -->
+                
+              </ul>
+            </nav>
+          </header>
+    <div class="container">
+        <h1>Health Care Assistant</h1>
+        
+        <!-- Updated Form -->
+        <form action="/predict" method="post" id="symptom-form">
+            <div class="input-section">
+                <label for="symptoms">Enter Your Symptoms:</label>
+                <input type="text" id="symptoms" name="symptoms" placeholder="Type symptoms like fever, cough, headache..." required />
+                <button type="submit">Predict</button>
+            </div>
+        </form>
+
+        {% if response_data %}
+            <div id="results-section">
+                <h2>Results Given by <span class="highlight">Nova</span></h2>
+                
+                <p><strong>Symptoms Provided:</strong> {{ response_data["Symptoms_Provided"] }}</p>
+                <p><strong>Severity Level:</strong> {{ response_data["Severity_Level"] }}</p>
+
+                <div id="predicted-disease" class="result-box">
+                    <h3>Predicted Disease</h3>
+                    <p id="disease-content"></p>
+                </div>
+
+                <div class="info-buttons">
+                    <button class="info-btn" data-type="diet">Diet Plan</button>
+                    <button class="info-btn" data-type="avoid">Foods to Avoid</button>
+                    <button class="info-btn" data-type="workout">Recommended Workouts</button>
+                    <button class="info-btn" data-type="doctor">Doctor to Consult</button>
+                </div>
+
+                <div id="detail-content" class="detail-box">
+                    <h3 id="detail-title">Select a button above to see details</h3>
+                    <ul id="detail-list">
+                    </ul>
+                </div>
+
+                <!-- Store the full response as hidden data -->
+                <div id="full-response" style="display: none;">{{ response_data["Response"] }}</div>
+            </div>
+        {% endif %}
+
+        {% if error %}
+            <div class="error-message">
+                {{ error }}
+            </div>
+        {% endif %}
+    </div>
+
+    <script src="{{ url_for('static', filename='js/main.js') }}"></script>
+</body>
+</html>
