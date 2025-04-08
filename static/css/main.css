@@ -61,7 +61,25 @@
   .input-section button:hover {
     background-color: #333433;
   }
+  .hospital-btn {
+    display: inline-block;
+    margin-top: 15px;
+    background-color: #000000;
+    color: white;
+    padding: 12px 25px;
+    border: none;
+    border-radius: 6px;
+    font-size: 16px;
+    font-weight: bold;
+    text-decoration: none;
+    transition: background-color 0.3s ease;
+  }
   
+  .hospital-btn:hover {
+    background-color: #3b0308;
+  }
+  
+
   /* Results Section */
   #results-section {
     margin-top: 40px;
