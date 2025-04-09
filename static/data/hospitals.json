@@ -1,202 +1,573 @@
 [
+
     {
-        "Place_name": "Lake View Hospital",
+        "Place_name": "Hive Counseling Services",
         "type": "Hospital",
-        "Phone": "044 2565 9911",
-        "Address1": "Flat No, 100A, Perambur Red Hills High Rd, Akbar Nagar, Kalpalayam, Kolathur, Chennai, Tamil Nadu 600099",
-        "Hours": "Wednesday:[Open 24 hours],Thursday:[Open 24 hours],Friday:[Open 24 hours],Saturday:[Open 24 hours],Sunday:[Open 24 hours],Monday:[Open 24 hours],Tuesday:[Open 24 hours]",
-        "Location": "https://www.google.com/maps?cid=0x3a52648d5fa0e62f:0x7394751a59f9ad4b",
-        "Latitude": 13.1368453,
-        "Longitude": 80.2086759
+        "Phone": "094444 30504",
+        "Address1": "Old No 5, New No, 3, Kadappa Rd, 3rd Layout, Teachers's Colony, Kolathur, Chennai, Tamil Nadu 600099",
+        "Hours": "Wednesday:[10\u202fam-8:30\u202fpm],Thursday:[10\u202fam-8:30\u202fpm],Friday:[10\u202fam-8\u202fpm],Saturday:[10\u202fam-8:30\u202fpm],Sunday:[10\u202fam-12\u202fpm],Monday:[10\u202fam-8\u202fpm],Tuesday:[10\u202fam-8:30\u202fpm]",
+        "Location": "https://www.google.com/maps?cid=0x6b155192feed3abf:0x28080148d5f2eade",
+        "Latitude": 13.1306198,
+        "Longitude": 80.2011601
     },
     {
-        "Place_name": "KVT Multi Speciality Hospital | 24hrs Emergency Multispeciality Hospital | Moolakadai, Chennai",
+        "Place_name": "Sridevi counselling center",
         "type": "Hospital",
-        "Phone": "07397 251 333",
-        "Address1": "Plot No. 1, 2,3, Ethiraj Samy Salai Rd, Erukkancheri, Kodungaiyur, Chennai, Tamil Nadu 600118",
-        "Hours": "Wednesday:[Open 24 hours],Thursday:[Open 24 hours],Friday:[Open 24 hours],Saturday:[Open 24 hours],Sunday:[Open 24 hours],Monday:[Open 24 hours],Tuesday:[Open 24 hours]",
-        "Location": "https://www.google.com/maps?cid=0x3a5265a0abba69dd:0x676f64da5ff700e9",
-        "Latitude": 13.1267214,
-        "Longitude": 80.2489811
+        "Phone": "098403 26249",
+        "Address1": "No25, post, 42, 1st Main Rd, Poompuhar Nagar, Kolathur, Chennai, Tamil Nadu 600099",
+        "Hours": "Wednesday:[9\u202fam-9:30\u202fpm],Thursday:[9\u202fam-9:30\u202fpm],Friday:[9\u202fam-9:30\u202fpm],Saturday:[9\u202fam-10:30\u202fpm],Sunday:[9\u202fam-10:30\u202fpm],Monday:[9\u202fam-9:30\u202fpm],Tuesday:[9\u202fam-9:30\u202fpm]",
+        "Location": "https://www.google.com/maps?cid=0x3a52645db41cfdb1:0x85ae1b2ccafa6534",
+        "Latitude": 13.1181013,
+        "Longitude": 80.2125893
     },
     {
-        "Place_name": "Sir Ivan Stedford Hospital",
+        "Place_name": "Al- Latheef Psychological Services - \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bc8 \u0ba4\u0bc7\u0b9f\u0bbf \u0bae\u0ba9-\u0ba8\u0bb2\u0bae\u0bcd",
         "type": "Hospital",
-        "Phone": "044 2658 3256",
-        "Address1": "7, Madras Thiruvallur High Rd, Shobha Nagar, OT, Ambattur, Chennai, Tamil Nadu 600053",
-        "Hours": "Wednesday:[Open 24 hours],Thursday:[Open 24 hours],Friday:[Open 24 hours],Saturday:[Open 24 hours],Sunday:[Open 24 hours],Monday:[Open 24 hours],Tuesday:[Open 24 hours]",
-        "Location": "https://www.google.com/maps?cid=0x3a52630036b889a3:0xb00561995608a6e",
-        "Latitude": 13.1255449,
-        "Longitude": 80.1440334
+        "Phone": "089257 72007",
+        "Address1": "",
+        "Hours": "",
+        "Location": "https://www.google.com/maps?cid=0x3a5265d9a176abb3:0xe2bd7b039b3f4b72",
+        "Latitude": 13.0475254,
+        "Longitude": 80.1935397
     },
     {
-        "Place_name": "Varamm Healthcare Pvt Ltd - Multispecialty Hospital Korattur",
+        "Place_name": "KAVITHALAYAA COUNSELING CENTRE",
         "type": "Hospital",
-        "Phone": "090479 98865",
-        "Address1": "Plot no . 780A, 31, st street, TNHB Colony, Korattur, East, Chennai, Tamil Nadu 600080",
-        "Hours": "Wednesday:[Open 24 hours],Thursday:[Open 24 hours],Friday:[Open 24 hours],Saturday:[Open 24 hours],Sunday:[Open 24 hours],Monday:[Open 24 hours],Tuesday:[Open 24 hours]",
-        "Location": "https://www.google.com/maps?cid=0x3a52650e34ef1199:0xd4bddde9742359ef",
-        "Latitude": 13.1099565,
-        "Longitude": 80.1836659
+        "Phone": "099623 46966",
+        "Address1": "18, 1st St, Samdharya Nagar, Ambattur, Chennai, Tamil Nadu 600053",
+        "Hours": "Wednesday:[10\u202fam-1\u202fpm],Thursday:[10\u202fam-1\u202fpm],Friday:[10\u202fam-1\u202fpm],Saturday:[10\u202fam-1\u202fpm],Sunday:[10\u202fam-1\u202fpm],Monday:[10\u202fam-1\u202fpm],Tuesday:[10\u202fam-1\u202fpm]",
+        "Location": "https://www.google.com/maps?cid=0x3a5263bb3235b33d:0xdc80a3ab8a5e85bc",
+        "Latitude": 13.1115655,
+        "Longitude": 80.1573064
     },
     {
-        "Place_name": "Vihaa Hospital",
-        "type": "Hospital",
-        "Phone": "097104 00000",
-        "Address1": "3rd Ave, Block E, Annanagar East, Chennai, Tamil Nadu 600102",
-        "Hours": "Wednesday:[Open 24 hours],Thursday:[Open 24 hours],Friday:[Open 24 hours],Saturday:[Open 24 hours],Sunday:[Open 24 hours],Monday:[Open 24 hours],Tuesday:[Open 24 hours]",
-        "Location": "https://www.google.com/maps?cid=0x3a526425cac6f0db:0x6deb8c146c12e7b4",
-        "Latitude": 13.0873339,
-        "Longitude": 80.2183222
-    },
-    {
-        "Place_name": "Faith Multispeciality Hospital",
-        "type": "Hospital",
-        "Phone": "095001 70383",
-        "Address1": "New. No: 116 & 117, S Mada St, near AGS Cinemas, Seeyalam, Villivakkam, Chennai, Tamil Nadu 600049",
-        "Hours": "Wednesday:[Open 24 hours],Thursday:[Open 24 hours],Friday:[Open 24 hours],Saturday:[Open 24 hours],Sunday:[Open 24 hours],Monday:[Open 24 hours],Tuesday:[Open 24 hours]",
-        "Location": "https://www.google.com/maps?cid=0x3a52646a739d0d19:0xcfe16ea468a11c8b",
-        "Latitude": 13.1056065,
-        "Longitude": 80.2101272
-    },
-    {
-        "Place_name": "The Madras Medical Mission Hospital",
-        "type": "Hospital",
-        "Phone": "1800 123 599 999",
-        "Address1": "4-A, Dr, Mogappair, Chennai, Tamil Nadu 600037",
-        "Hours": "Wednesday:[Open 24 hours],Thursday:[Open 24 hours],Friday:[Open 24 hours],Saturday:[Open 24 hours],Sunday:[Open 24 hours],Monday:[Open 24 hours],Tuesday:[Open 24 hours]",
-        "Location": "https://www.google.com/maps?cid=0x3a5265864b155555:0xb24bc1d5860e3f08",
-        "Latitude": 13.0859697,
-        "Longitude": 80.187141
-    },
-    {
-        "Place_name": "MGM Healthcare",
-        "type": "Hospital",
-        "Phone": "044 4524 2407",
-        "Address1": "Old No 54, 72, Nelson Manickam Rd, Collectorate Colony, Aminjikarai, Chennai, Tamil Nadu 600029",
-        "Hours": "Wednesday:[Open 24 hours],Thursday:[Open 24 hours],Friday:[Open 24 hours],Saturday:[Open 24 hours],Sunday:[Open 24 hours],Monday:[Open 24 hours],Tuesday:[Open 24 hours]",
-        "Location": "https://www.google.com/maps?cid=0x3a5267ae643b0ee7:0x9405bf4578941d04",
-        "Latitude": 13.0712513,
-        "Longitude": 80.2220557
-    },
-    {
-        "Place_name": "Chennai Health Foundation",
-        "type": "Hospital",
-        "Phone": "084382 82144",
-        "Address1": "T.M Voil, Oppo To Vivekanadha School, Eskay Tower, 2B2, Madras Thiruvallur High Rd, Aishwarya Nagar, Ambattur, Chennai, Tamil Nadu 600053",
-        "Hours": "Wednesday:[Open 24 hours],Thursday:[Open 24 hours],Friday:[Open 24 hours],Saturday:[Open 24 hours],Sunday:[Open 24 hours],Monday:[Open 24 hours],Tuesday:[Open 24 hours]",
-        "Location": "https://www.google.com/maps?cid=0x3a5262fe8712be7d:0xce2fe1b43f38e921",
-        "Latitude": 13.1281077,
-        "Longitude": 80.140086
-    },
-    {
-        "Place_name": "Poovanthi Rehabilitation Centre",
-        "type": "Hospital",
-        "Phone": "095000 18304",
-        "Address1": "Thirumalai Nagar, Annexed No: 9, Thirumalai Nagar, Annexed, 100 Feet Rd, Kolathur, Chennai, Tamil Nadu 600099",
-        "Hours": "Wednesday:[Open 24 hours],Thursday:[Open 24 hours],Friday:[Open 24 hours],Saturday:[Open 24 hours],Sunday:[Open 24 hours],Monday:[Open 24 hours],Tuesday:[Open 24 hours]",
-        "Location": "https://www.google.com/maps?cid=0x3a525dd15407896d:0x1185f7e3fc7fcc96",
-        "Latitude": 13.1218673,
-        "Longitude": 80.1996929
-    },
-    {
-        "Place_name": "Sundaram Medical Foundation Dr. Rangarajan Memorial Hospital",
-        "type": "Hospital",
-        "Phone": "044 2614 4100",
-        "Address1": "9C, 4th Ave, Shanthi Colony, AK Block, Anna Nagar, Chennai, Tamil Nadu 600040",
-        "Hours": "Wednesday:[Open 24 hours],Thursday:[Open 24 hours],Friday:[Open 24 hours],Saturday:[Open 24 hours],Sunday:[Open 24 hours],Monday:[Open 24 hours],Tuesday:[Open 24 hours]",
-        "Location": "https://www.google.com/maps?cid=0x3a52666bfc66380d:0x158c2ce2fe86c7bc",
-        "Latitude": 13.0828097,
-        "Longitude": 80.2047755
-    },
-    {
-        "Place_name": "Lifeline Multispeciality Hospitals",
-        "type": "Hospital",
-        "Phone": "044 4294 9495",
-        "Address1": "47/3, New Avadi Rd, Alagappa Nagar, Kilpauk, Chennai, Tamil Nadu 600010",
-        "Hours": "Wednesday:[Open 24 hours],Thursday:[Open 24 hours],Friday:[Open 24 hours],Saturday:[Open 24 hours],Sunday:[Open 24 hours],Monday:[Open 24 hours],Tuesday:[Open 24 hours]",
-        "Location": "https://www.google.com/maps?cid=0x3a52667fb51df4c1:0xda54eb8cae181334",
-        "Latitude": 13.0781057,
-        "Longitude": 80.2337083
-    },
-    {
-        "Place_name": "Sri Devi Hospital",
+        "Place_name": "V COUNSEL - Center for Counselling & Training",
         "type": "Hospital",
         "Phone": "",
-        "Address1": "1620, 16th St, Bharathi Colony, Bharathi Nagar, Anna Nagar, Chennai, Tamil Nadu 600040",
-        "Hours": "Wednesday:[Open 24 hours],Thursday:[Open 24 hours],Friday:[Open 24 hours],Saturday:[Open 24 hours],Sunday:[Open 24 hours],Monday:[Open 24 hours],Tuesday:[Open 24 hours]",
-        "Location": "https://www.google.com/maps?cid=0x3a52641aeebe70ed:0x6ee0d3576d59cb48",
-        "Latitude": 13.0889129,
-        "Longitude": 80.1994407
+        "Address1": "4/3, Parthiban St, Rajaji Nagar, Villivakkam, Chennai, Tamil Nadu 600049",
+        "Hours": "Wednesday:[10\u202fam-5\u202fpm],Thursday:[10\u202fam-5\u202fpm],Friday:[10\u202fam-5\u202fpm],Saturday:[10\u202fam-5\u202fpm],Sunday:[Closed],Monday:[Closed],Tuesday:[Closed]",
+        "Location": "https://www.google.com/maps?cid=0x3a52654cd9ea9893:0x52c43728ac7f8388",
+        "Latitude": 13.1152352,
+        "Longitude": 80.2090617
     },
     {
-        "Place_name": "Dr. Mehta's Hospitals",
+        "Place_name": "Joes Hope Center",
         "type": "Hospital",
-        "Phone": "044 4227 1001",
-        "Address1": "No.2/1,2, 3, Mc Nichols Road 3rd Ln, Chetpet, Chennai, Tamil Nadu 600031",
-        "Hours": "Wednesday:[Open 24 hours],Thursday:[Open 24 hours],Friday:[Open 24 hours],Saturday:[Open 24 hours],Sunday:[Open 24 hours],Monday:[Open 24 hours],Tuesday:[Open 24 hours]",
-        "Location": "https://www.google.com/maps?cid=0x3a5265e51a427cad:0x3c7ce71e604b9f23",
-        "Latitude": 13.0716109,
-        "Longitude": 80.2405937
+        "Phone": "097890 99154",
+        "Address1": "18/22, 1st Main Rd, Baba Nagar, North Jagannatha Nagar, Villivakkam, Chennai, Tamil Nadu 600049",
+        "Hours": "Wednesday:[9\u202fam-5\u202fpm],Thursday:[9\u202fam-5\u202fpm],Friday:[9\u202fam-5\u202fpm],Saturday:[9\u202fam-5\u202fpm],Sunday:[Closed],Monday:[9\u202fam-5\u202fpm],Tuesday:[9\u202fam-5\u202fpm]",
+        "Location": "https://www.google.com/maps?cid=0x3a5265f6b02cdce7:0x26e71671bdf6b0f7",
+        "Latitude": 13.1129212,
+        "Longitude": 80.2018801
     },
     {
-        "Place_name": "SIMS Hospitals - Multi Speciality Hospital in chennai",
-        "type": "Hospital",
-        "Phone": "044 2000 2001",
-        "Address1": "Metro No.1 Jawaharlal Nehru Road, Landmark:, next to Vadapalani, Chennai, Tamil Nadu 600026",
-        "Hours": "Wednesday:[Open 24 hours],Thursday:[Open 24 hours],Friday:[Open 24 hours],Saturday:[Open 24 hours],Sunday:[Open 24 hours],Monday:[Open 24 hours],Tuesday:[Open 24 hours]",
-        "Location": "https://www.google.com/maps?cid=0x3a5266ea2747db13:0x2ffbe4fed8d74bd2",
-        "Latitude": 13.0516983,
-        "Longitude": 80.2118133
-    },
-    {
-        "Place_name": "Be Well Hospitals Kilpauk",
-        "type": "Hospital",
-        "Phone": "072990 50099",
-        "Address1": "15, Bank St, Kilpauk, Chennai, Tamil Nadu 600010",
-        "Hours": "Wednesday:[Open 24 hours],Thursday:[Open 24 hours],Friday:[Open 24 hours],Saturday:[Open 24 hours],Sunday:[Open 24 hours],Monday:[Open 24 hours],Tuesday:[Open 24 hours]",
-        "Location": "https://www.google.com/maps?cid=0x3a52643099ac1f1b:0xbf5eb66c842bb7b3",
-        "Latitude": 13.0807349,
-        "Longitude": 80.2340002
-    },
-    {
-        "Place_name": "K.M.Multispeciality Hospita lMadhavaram",
-        "type": "Hospital",
-        "Phone": "044 4850 6933",
-        "Address1": "8&9, Madhavaram Milk Colony Rd, Annai Velankanni Nagar, Madhavaram, Chennai, Tamil Nadu 600051",
-        "Hours": "Wednesday:[Open 24 hours],Thursday:[Open 24 hours],Friday:[Open 24 hours],Saturday:[Open 24 hours],Sunday:[Open 24 hours],Monday:[Open 24 hours],Tuesday:[Open 24 hours]",
-        "Location": "https://www.google.com/maps?cid=0x3a526527387aaff7:0x4e0f47cc822400a",
-        "Latitude": 13.1449658,
-        "Longitude": 80.2397732
-    },
-    {
-        "Place_name": "CHENNAI NATIONAL HOSPITAL",
-        "type": "Hospital",
-        "Phone": "089390 33333",
-        "Address1": "12, Jaffar Sarang St, Parrys, George Town, Chennai, Tamil Nadu 600001",
-        "Hours": "Wednesday:[Open 24 hours],Thursday:[Open 24 hours],Friday:[Open 24 hours],Saturday:[Open 24 hours],Sunday:[Open 24 hours],Monday:[Open 24 hours],Tuesday:[Open 24 hours]",
-        "Location": "https://www.google.com/maps?cid=0x3a526f45b07102d1:0x45721eef9832613d",
-        "Latitude": 13.096446,
-        "Longitude": 80.2915071
-    },
-    {
-        "Place_name": "ANAND HOSPITAL",
+        "Place_name": "COUNSELLING-LIFECOACHING",
         "type": "Hospital",
         "Phone": "",
-        "Address1": "201, Kamarajar Salai, Market Road, Manali, Chennai, Tamil Nadu 600068",
+        "Address1": "19/8, near SHEWINNER(UMAS ACADEMY OF WOMEN EMPOWERMENT, Shop St, Venkatapuram, Ambattur, Chennai, Tamil Nadu 600053",
         "Hours": "Wednesday:[Open 24 hours],Thursday:[Open 24 hours],Friday:[Open 24 hours],Saturday:[Open 24 hours],Sunday:[Open 24 hours],Monday:[Open 24 hours],Tuesday:[Open 24 hours]",
-        "Location": "https://www.google.com/maps?cid=0x3a526456ef0a21cd:0xb8046bf6c33cc35f",
-        "Latitude": 13.1637504,
-        "Longitude": 80.2581454
+        "Location": "https://www.google.com/maps?cid=0x3a5263d90b4873f7:0xf240d07ec91377b9",
+        "Latitude": 13.1176041,
+        "Longitude": 80.1545872
     },
     {
-        "Place_name": "Sen Hospital",
+        "Place_name": "YANA COUNSELLING CENTER-Psychologist counselling/Psychological Doctor/stress management Counselling Center in Chennai",
         "type": "Hospital",
-        "Phone": "044 2558 6896",
-        "Address1": "New No. 51, Old, 18, Bunder Garden St, opp. LOURDES GIRLS HIGHER SECONDARY SCHOOL, Perambur, Chennai, Tamil Nadu 600011",
+        "Phone": "082483 40005",
+        "Address1": "",
+        "Hours": "",
+        "Location": "https://www.google.com/maps?cid=0x3a526f197a9b9857:0x573f0614cc9ce4ed",
+        "Latitude": 13.131766,
+        "Longitude": 80.0320265
+    },
+    {
+        "Place_name": "Mind and Manas",
+        "type": "Hospital",
+        "Phone": "078100 94326",
+        "Address1": "No.45/3 1st floor shantiniketan colony anna nagar, western ext, opposite Kalyan jewellers, Anna Nagar West Extension, Chennai, Tamil Nadu 600101",
+        "Hours": "Wednesday:[10\u202fam-7\u202fpm],Thursday:[10\u202fam-7\u202fpm],Friday:[10\u202fam-7\u202fpm],Saturday:[10\u202fam-7\u202fpm],Sunday:[Closed],Monday:[10\u202fam-7\u202fpm],Tuesday:[10\u202fam-7\u202fpm]",
+        "Location": "https://www.google.com/maps?cid=0x3a526407f5c18e69:0xa45a85095d2208b8",
+        "Latitude": 13.0876137,
+        "Longitude": 80.193133
+    },
+    {
+        "Place_name": "Magnacode Psychological Counseling Clinic, Mrs. Lekha Edwin ( Best Psychologist In Chennai)",
+        "type": "Hospital",
+        "Phone": "093801 99199",
+        "Address1": "12, 18th Ave, Sector 10, Sector 13, Ashok Nagar, Chennai, Tamil Nadu 600083",
+        "Hours": "Wednesday:[9\u202fam-7\u202fpm],Thursday:[9\u202fam-7\u202fpm],Friday:[9\u202fam-7\u202fpm],Saturday:[9\u202fam-7\u202fpm],Sunday:[Closed],Monday:[9\u202fam-7\u202fpm],Tuesday:[9\u202fam-7\u202fpm]",
+        "Location": "https://www.google.com/maps?cid=0x3a52676355b4dde1:0x6bccbb5265c33588",
+        "Latitude": 13.0395991,
+        "Longitude": 80.2109041
+    },
+    {
+        "Place_name": "Emocare (Counseling,Life Coaching and Training)",
+        "type": "Hospital",
+        "Phone": "070107 02114",
+        "Address1": "19/4, Shop St, Venkatapuram, Ambattur, Chennai, Tamil Nadu 600053",
         "Hours": "Wednesday:[Open 24 hours],Thursday:[Open 24 hours],Friday:[Open 24 hours],Saturday:[Open 24 hours],Sunday:[Open 24 hours],Monday:[Open 24 hours],Tuesday:[Open 24 hours]",
-        "Location": "https://www.google.com/maps?cid=0x3a5265b0be5f5e59:0x1d547397bd123d34",
-        "Latitude": 13.110833,
-        "Longitude": 80.2419017
+        "Location": "https://www.google.com/maps?cid=0x3a526307dff58bfd:0x65330ed6b30cc61d",
+        "Latitude": 13.1161326,
+        "Longitude": 80.1544179
+    },
+    {
+        "Place_name": "Thoughts Work Counseling Services - Online/Offline Counseling",
+        "type": "Hospital",
+        "Phone": "090809 69752",
+        "Address1": "3rd Main Rd, Srinivasa Puram, Korattur, Chennai, Tamil Nadu 600076",
+        "Hours": "Wednesday:[9\u202fam-8\u202fpm],Thursday:[9\u202fam-8\u202fpm],Friday:[9\u202fam-8\u202fpm],Saturday:[9\u202fam-8\u202fpm],Sunday:[9\u202fam-8\u202fpm],Monday:[9\u202fam-8\u202fpm],Tuesday:[9\u202fam-8\u202fpm]",
+        "Location": "https://www.google.com/maps?cid=0x3a5263ee9564011d:0x95c54b14331688b1",
+        "Latitude": 13.1155132,
+        "Longitude": 80.180712
+    },
+    {
+        "Place_name": "Steps Foundations (Professional Counselling & Psychological Services)",
+        "type": "Hospital",
+        "Phone": "089394 04576",
+        "Address1": "",
+        "Hours": "",
+        "Location": "https://www.google.com/maps?cid=0x3a5265b5b937343f:0x4bb9ab27dea87d08",
+        "Latitude": 21.0680074,
+        "Longitude": 82.7525294
+    },
+    {
+        "Place_name": "Consultant Psychologist Sripriya",
+        "type": "Hospital",
+        "Phone": "087778 39663",
+        "Address1": "C-63, 2nd Main Rd, Thiruvengada Nagar, Ambattur, Chennai, Tamil Nadu 600053",
+        "Hours": "Wednesday:[12-9\u202fpm],Thursday:[12-9\u202fpm],Friday:[12-9\u202fpm],Saturday:[12-9\u202fpm],Sunday:[12-9\u202fpm],Monday:[12-9\u202fpm],Tuesday:[4:30-5\u202fpm]",
+        "Location": "https://www.google.com/maps?cid=0x3a5263bb690e77f9:0x7abe39caa0f9e861",
+        "Latitude": 13.1168944,
+        "Longitude": 80.1450433
+    },
+    {
+        "Place_name": "Somya Rawal-Counselling and Psychology",
+        "type": "Hospital",
+        "Phone": "078180 08504",
+        "Address1": "Vaagai Nagar 1st St, north, Korattur, Chennai, Tamil Nadu 600076",
+        "Hours": "Wednesday:[Open 24 hours],Thursday:[Open 24 hours],Friday:[Open 24 hours],Saturday:[Open 24 hours],Sunday:[Open 24 hours],Monday:[Open 24 hours],Tuesday:[Open 24 hours]",
+        "Location": "https://www.google.com/maps?cid=0x3a52650045bfd597:0xefa7094ab5d94217",
+        "Latitude": 13.1169734,
+        "Longitude": 80.1954154
+    },
+    {
+        "Place_name": "GLOBAL TRAINERS,COACHES & COUNSELLORS ORGANISATION",
+        "type": "Hospital",
+        "Phone": "070107 02114",
+        "Address1": "19-5, Shop St, near UMAS INSTITUTE OF COSMETOLOGY, Venkatapuram, Ambattur, Chennai, Tamil Nadu 600053",
+        "Hours": "Wednesday:[Open 24 hours],Thursday:[Open 24 hours],Friday:[Open 24 hours],Saturday:[Open 24 hours],Sunday:[Open 24 hours],Monday:[Open 24 hours],Tuesday:[Open 24 hours]",
+        "Location": "https://www.google.com/maps?cid=0x3a5263d33ae1d289:0x83d87b9a38642d7",
+        "Latitude": 13.1176041,
+        "Longitude": 80.1545872
+    },
+    {
+        "Place_name": "Phoenix Psychological Services - Psychological Counselor & Cognitive Hypnotic Psychotherapist",
+        "type": "Hospital",
+        "Phone": "096434 48705",
+        "Address1": "Square Spaces- Business center, Bus stop, 187 / 188, Thiruvalluvar Salai, near 7 H, Paneer Nagar, Mogappair East, Chennai, Tamil Nadu 600037",
+        "Hours": "Wednesday:[10\u202fam-7\u202fpm],Thursday:[10\u202fam-7\u202fpm],Friday:[10\u202fam-7\u202fpm],Saturday:[10\u202fam-7\u202fpm],Sunday:[Closed],Monday:[10\u202fam-7\u202fpm],Tuesday:[10\u202fam-7\u202fpm]",
+        "Location": "https://www.google.com/maps?cid=0x3be7e7aa84502c99:0xdc5987e0746a6fe7",
+        "Latitude": 13.0817839,
+        "Longitude": 80.1799249
+    },
+    {
+        "Place_name": "Nandhavanam psych services",
+        "type": "Hospital",
+        "Phone": "073534 77711",
+        "Address1": "F2, Jasmine block r c Mehta green park apartments, Venkateshwara Colony Main Rd, Madhavaram Milk Colony, Chennai, Tamil Nadu 600060",
+        "Hours": "Wednesday:[10\u202fam-3:30\u202fpm],Thursday:[10\u202fam-3:30\u202fpm],Friday:[10\u202fam-3:30\u202fpm],Saturday:[10\u202fam-3:30\u202fpm],Sunday:[Closed],Monday:[10\u202fam-3:30\u202fpm],Tuesday:[10\u202fam-3:30\u202fpm]",
+        "Location": "https://www.google.com/maps?cid=0x3a5265491cc29667:0xeb52a3e9b7f1001f",
+        "Latitude": 13.1447065,
+        "Longitude": 80.2392367
+    },
+    {
+        "Place_name": "TulirV \u2013 Stress, Relationship & Career Counseling",
+        "type": "Hospital",
+        "Phone": "",
+        "Address1": "ALLIANCE ORCHID SPRINGS, 54, Water Canal Rd, Korattur Tank, Korattur, Chennai, Puthagaram, Tamil Nadu 600080",
+        "Hours": "",
+        "Location": "https://www.google.com/maps?cid=0x3a5265acc7760d9f:0x5322c94b535eb7d1",
+        "Latitude": 13.1260552,
+        "Longitude": 80.1932335
+    },
+    {
+        "Place_name": "Beautiful Mind Psychological Counseling Center",
+        "type": "Hospital",
+        "Phone": "091766 77375",
+        "Address1": "10, Park Rd, U R Nagar Extension, Ur Nagar, Anna Nagar West Extension, Chennai, Tamil Nadu 600050",
+        "Hours": "Wednesday:[10:30\u202fam-6:30\u202fpm],Thursday:[10:30\u202fam-6:30\u202fpm],Friday:[10:30\u202fam-6:30\u202fpm],Saturday:[10:30\u202fam-6:30\u202fpm],Sunday:[Closed],Monday:[10:30\u202fam-12\u202fam],Tuesday:[10:30\u202fam-12\u202fam]",
+        "Location": "https://www.google.com/maps?cid=0x3a5265a1eb4d31e3:0x6052719ab14fbb11",
+        "Latitude": 13.0997711,
+        "Longitude": 80.1930375
+    },
+    {
+        "Place_name": "Ms. Rajalakshmi, Treated 9K+ Patients | Best Psychologist | Best Life Coach | Child Psychologist | ADHD | Premarital",
+        "type": "Hospital",
+        "Phone": "080 4696 1837",
+        "Address1": "Apollo Speciality Hospitals, 80 Feet Rd, KK Nagar, Deputy Collector Colony, Madurai, Tamil Nadu 625001",
+        "Hours": "Wednesday:[7\u202fam-9\u202fpm],Thursday:[7\u202fam-9\u202fpm],Friday:[7\u202fam-9\u202fpm],Saturday:[7\u202fam-9\u202fpm],Sunday:[7\u202fam-9\u202fpm],Monday:[7\u202fam-9\u202fpm],Tuesday:[7\u202fam-10\u202fpm]",
+        "Location": "https://www.google.com/maps?cid=0x3b00c55f539a90e1:0x46898aead413a387",
+        "Latitude": 9.927879899999999,
+        "Longitude": 78.1489977
+    },
+    {
+        "Place_name": "Yellow Pond Counselling and Wellness Centre Madurai",
+        "type": "Hospital",
+        "Phone": "",
+        "Address1": "695, 9th North, Manikkavasagar St, Anna Nagar, Sathamangalam, Madurai, Tamil Nadu 625020",
+        "Hours": "Wednesday:[9\u202fam-10\u202fpm],Thursday:[9\u202fam-10\u202fpm],Friday:[9\u202fam-10\u202fpm],Saturday:[9\u202fam-10\u202fpm],Sunday:[9\u202fam-10\u202fpm],Monday:[9\u202fam-10\u202fpm],Tuesday:[9\u202fam-10\u202fpm]",
+        "Location": "https://www.google.com/maps?cid=0x3b00c5e0120bf8fb:0x4b8ccb27b38f35c7",
+        "Latitude": 9.9197831,
+        "Longitude": 78.1495774
+    },
+    {
+        "Place_name": "Blissfullmind Wellness Research Hospitals | Dr. Mohanavenkataraman | best psychiatrist | Madurai, Tamil Nadu",
+        "type": "Hospital",
+        "Phone": "081908 66665",
+        "Address1": "49, Ashok Nagar 3rd St, Kochadai, Madurai, Tamil Nadu 625016",
+        "Hours": "Wednesday:[10:30\u202fam-9\u202fpm],Thursday:[10:30\u202fam-9\u202fpm],Friday:[10:30\u202fam-10\u202fpm],Saturday:[9\u202fam-10\u202fpm],Sunday:[9\u202fam-10\u202fpm],Monday:[10:30\u202fam-9\u202fpm],Tuesday:[10:30\u202fam-9\u202fpm]",
+        "Location": "https://www.google.com/maps?cid=0x3b00cf6e5e3953b3:0x41dcaedb4024a0d5",
+        "Latitude": 9.9390561,
+        "Longitude": 78.0859827
+    },
+    {
+        "Place_name": "Dr.Rajan's Mind Clinic",
+        "type": "Hospital",
+        "Phone": "099622 20580",
+        "Address1": "4B, 4th FLOOR, AL WAARIS AVENUE No.151, K.K NAGAR EAST, 5th St, Madurai, Tamil Nadu 625020",
+        "Hours": "Wednesday:[5-9\u202fpm],Thursday:[5-9\u202fpm],Friday:[5-9\u202fpm],Saturday:[5-9\u202fpm],Sunday:[Closed],Monday:[5-9\u202fpm],Tuesday:[5-9\u202fpm]",
+        "Location": "https://www.google.com/maps?cid=0x3a52670d096cbbf9:0x14417bf4baf822ab",
+        "Latitude": 9.9357457,
+        "Longitude": 78.1481661
+    },
+    {
+        "Place_name": "Nachiyar Counseling Center",
+        "type": "Hospital",
+        "Phone": "090950 91794",
+        "Address1": "1st floor, 352-5E, EB office road, 5th street, Rajiv Gandhi Nagar, Anuppanadi, Madurai, Tamil Nadu 625009",
+        "Hours": "Wednesday:[Open 24 hours],Thursday:[Open 24 hours],Friday:[Open 24 hours],Saturday:[Open 24 hours],Sunday:[Open 24 hours],Monday:[Open 24 hours],Tuesday:[Open 24 hours]",
+        "Location": "https://www.google.com/maps?cid=0x3b00c5f555740625:0xa77240f8f2ee2eaa",
+        "Latitude": 9.8996,
+        "Longitude": 78.14860399999999
+    },
+    {
+        "Place_name": "MANAM Psychological Counseling centre",
+        "type": "Hospital",
+        "Phone": "094449 39076",
+        "Address1": "bus stop, 19, 2nd, Muniyandi Kovil St, S Alangulam, Madurai, Tamil Nadu 625017",
+        "Hours": "Wednesday:[10\u202fam-7\u202fpm],Thursday:[10\u202fam-7\u202fpm],Friday:[10\u202fam-7\u202fpm],Saturday:[10\u202fam-7\u202fpm],Sunday:[Closed],Monday:[10\u202fam-7\u202fpm],Tuesday:[10\u202fam-7\u202fpm]",
+        "Location": "https://www.google.com/maps?cid=0x3b00c544cc019921:0x66852a27004b8e6e",
+        "Latitude": 9.9564457,
+        "Longitude": 78.1174079
+    },
+    {
+        "Place_name": "Thigazhavizh Counselling Centre",
+        "type": "Hospital",
+        "Phone": "096293 12121",
+        "Address1": "T.P Complex, P & T Nagar Main Rd, P and T Nagar, Madurai, Tamil Nadu 625014",
+        "Hours": "Wednesday:[6-9:30\u202fpm],Thursday:[6-9:30\u202fpm],Friday:[6-9:30\u202fpm],Saturday:[6-9:30\u202fpm],Sunday:[Closed],Monday:[6-9:30\u202fpm],Tuesday:[6-9:30\u202fpm]",
+        "Location": "https://www.google.com/maps?cid=0x3b00c60a2bc5ec5f:0x68ad4c9c35a3f254",
+        "Latitude": 9.959646,
+        "Longitude": 78.1281625
+    },
+    {
+        "Place_name": "Alpha Omega deaddiction & psychiatric center",
+        "type": "Hospital",
+        "Phone": "086810 01158",
+        "Address1": "sea food, No 6, sallai muthu nagar, Arul nagar, near madurai, Madurai, Tamil Nadu 625016",
+        "Hours": "Wednesday:[Open 24 hours],Thursday:[Open 24 hours],Friday:[Open 24 hours],Saturday:[Open 24 hours],Sunday:[Open 24 hours],Monday:[Open 24 hours],Tuesday:[Open 24 hours]",
+        "Location": "https://www.google.com/maps?cid=0x3b00cf9e9e7699b5:0x8365464c433767a4",
+        "Latitude": 9.9127171,
+        "Longitude": 78.0974316
+    },
+    {
+        "Place_name": "New Leaf Counselling and Psychotherapy Center",
+        "type": "Hospital",
+        "Phone": "073735 61688",
+        "Address1": "No 19, Vignesh illam, Singarayar Colony, Anaiyur, Madurai, Tamil Nadu 625017",
+        "Hours": "Wednesday:[9\u202fam-8\u202fpm],Thursday:[9\u202fam-8\u202fpm],Friday:[9\u202fam-8\u202fpm],Saturday:[9\u202fam-8\u202fpm],Sunday:[10\u202fam-8\u202fpm],Monday:[9\u202fam-8\u202fpm],Tuesday:[9\u202fam-8\u202fpm]",
+        "Location": "https://www.google.com/maps?cid=0x3b00c7d45797afc7:0x4d43b7d4c434ef11",
+        "Latitude": 9.940422,
+        "Longitude": 78.12828499999999
+    },
+    {
+        "Place_name": "Ahana Hospitals - KK Nagar Branch",
+        "type": "Hospital",
+        "Phone": "090060 06000",
+        "Address1": "No: 611, KK Nagar, Madurai, Tamil Nadu 625020",
+        "Hours": "Wednesday:[9\u202fam-8\u202fpm],Thursday:[9\u202fam-8\u202fpm],Friday:[9\u202fam-8\u202fpm],Saturday:[9\u202fam-8\u202fpm],Sunday:[9\u202fam-4\u202fpm],Monday:[9\u202fam-8\u202fpm],Tuesday:[9\u202fam-8\u202fpm]",
+        "Location": "https://www.google.com/maps?cid=0x3b00c5c807735b9d:0x4460d71fbe0b3128",
+        "Latitude": 9.936356499999999,
+        "Longitude": 78.14510419999999
+    },
+    {
+        "Place_name": "Suyambu Counseling Centre, treated 50 k Clients/ 18 + yrs Exp./ Clinical Psychologist",
+        "type": "Hospital",
+        "Phone": "097151 22666",
+        "Address1": "357, Uzhavar Santhai Road, 625020, Anna Nagar, Sathamangalam, Tamil Nadu 625020",
+        "Hours": "Wednesday:[12:30-8\u202fpm],Thursday:[1:30-8\u202fpm],Friday:[1-8\u202fpm],Saturday:[1-8\u202fpm],Sunday:[Closed],Monday:[1-8\u202fpm],Tuesday:[1-8\u202fpm]",
+        "Location": "https://www.google.com/maps?cid=0x3b00c5afd6bfffff:0x424bcc7f515b7f8a",
+        "Latitude": 9.922313899999999,
+        "Longitude": 78.1477951
+    },
+    {
+        "Place_name": "BLUESTAR PSYCHOLOGICAL COUNSELLING CENTRE",
+        "type": "Hospital",
+        "Phone": "090953 65662",
+        "Address1": "7, Jeevanagar 2nd St, Thendral Nagar, Jaihindpuram, Madurai, Tamil Nadu 625011",
+        "Hours": "",
+        "Location": "https://www.google.com/maps?cid=0x3b00cf4fe1a25b91:0x20737cd8b3b4c04e",
+        "Latitude": 9.8956211,
+        "Longitude": 78.10627029999999
+    },
+    {
+        "Place_name": "Manjula Shyam Sundar - Psychological Counsellor",
+        "type": "Hospital",
+        "Phone": "094889 57772",
+        "Address1": "opposite HP petrol bluck opp St, 15, 7th St, near Bhuvaneswari Amman Temple, Prasanna Colony, Avaniyapuram, Tamil Nadu 625012",
+        "Hours": "Wednesday:[10\u202fam-3\u202fpm],Thursday:[10\u202fam-3\u202fpm],Friday:[10\u202fam-3\u202fpm],Saturday:[Closed],Sunday:[Closed],Monday:[10\u202fam-3\u202fpm],Tuesday:[10\u202fam-3\u202fpm]",
+        "Location": "https://www.google.com/maps?cid=0x3b00c5eaf49898dd:0x263fe724c3eb698e",
+        "Latitude": 9.878736199999999,
+        "Longitude": 78.1168143
+    },
+    {
+        "Place_name": "Dr. Mr Dheep - Best Psychiatrist in Madurai | Apollo Hospitals",
+        "type": "Hospital",
+        "Phone": "1860 500 1066",
+        "Address1": "Apollo Speciality Hospital, 80 Feet Rd, Anna Nagar, KK Nagar, Madurai, Tamil Nadu 625020",
+        "Hours": "Wednesday:[9\u202fam-9\u202fpm],Thursday:[9\u202fam-9\u202fpm],Friday:[9\u202fam-9\u202fpm],Saturday:[9\u202fam-9\u202fpm],Sunday:[9\u202fam-9\u202fpm],Monday:[9\u202fam-9\u202fpm],Tuesday:[9\u202fam-9\u202fpm]",
+        "Location": "https://www.google.com/maps?cid=0x3b00c583a58e2c8b:0xa44c8e715ae49633",
+        "Latitude": 9.9266174,
+        "Longitude": 78.1486929
+    },
+    {
+        "Place_name": "PIO Counselling and Training Services",
+        "type": "Hospital",
+        "Phone": "091591 56679",
+        "Address1": "2nd St, Valluvar Colony, Cs Nagar, Madurai, Tamil Nadu 625014",
+        "Hours": "Wednesday:[10\u202fam-7\u202fpm],Thursday:[10\u202fam-7\u202fpm],Friday:[10\u202fam-7\u202fpm],Saturday:[10\u202fam-2\u202fpm],Sunday:[Closed],Monday:[10\u202fam-7\u202fpm],Tuesday:[10\u202fam-7\u202fpm]",
+        "Location": "https://www.google.com/maps?cid=0x3b00c700e31c9c3b:0x717e8a8697b30d57",
+        "Latitude": 9.9588744,
+        "Longitude": 78.1285216
+    },
+    {
+        "Place_name": "Ilakkuvanar Mental Health Centre(Psychiatrist Madurai/Best Psychiatrist/Senior Female Psychiatrist)",
+        "type": "Hospital",
+        "Phone": "0452 256 8106",
+        "Address1": "Bus Stand, No: 25, Alagar Kovil Main Rd, near K Pudur, Ramavarma Nagar, K.Pudur, Madurai, Tamil Nadu 625007",
+        "Hours": "Wednesday:[10\u202fam-8\u202fpm],Thursday:[10\u202fam-8\u202fpm],Friday:[10\u202fam-8\u202fpm],Saturday:[10\u202fam-8\u202fpm],Sunday:[Closed],Monday:[10\u202fam-8\u202fpm],Tuesday:[10\u202fam-8\u202fpm]",
+        "Location": "https://www.google.com/maps?cid=0x3b00c5d00384d85d:0xa52cc28be0ae1ae",
+        "Latitude": 9.9468464,
+        "Longitude": 78.1452534
+    },
+    {
+        "Place_name": "Dr. Asma J A Batcha | Best Psychiatrist | Psychiatrist Doctor | Headache/Anxiety | Sexual Disorder | Depression Specialist",
+        "type": "Hospital",
+        "Phone": "080 4696 1837",
+        "Address1": "Apollo Speciality Hospitals, 80 Feet Rd, KK Nagar, Deputy Collector Colony, Madurai, Tamil Nadu 625001",
+        "Hours": "Wednesday:[8\u202fam-9:30\u202fpm],Thursday:[8\u202fam-9:30\u202fpm],Friday:[8\u202fam-9:30\u202fpm],Saturday:[8\u202fam-9:30\u202fpm],Sunday:[10\u202fam-9:30\u202fpm],Monday:[8\u202fam-9:30\u202fpm],Tuesday:[8-10\u202fam]",
+        "Location": "https://www.google.com/maps?cid=0x3b00c5abbbf7d957:0xc9ee0bc2204b5c21",
+        "Latitude": 9.927879899999999,
+        "Longitude": 78.1489977
+    },
+    {
+        "Place_name": "Prism Counselling Services",
+        "type": "Hospital",
+        "Phone": "074188 83023",
+        "Address1": "",
+        "Hours": "",
+        "Location": "https://www.google.com/maps?cid=0x3b00c5d0b00c45ed:0x23c37c2ac007ab83",
+        "Latitude": 9.9178368,
+        "Longitude": 78.12282359999999
+    },
+    {
+        "Place_name": "Ahana Hospitals - Managiri Branch(Psychiatrist Madurai/Best Psychiatrist/Senior Psychiatrist)",
+        "type": "Hospital",
+        "Phone": "090060 06000",
+        "Address1": "MSS Wakf Board College, 16/2A, 100 Feet Rd, opposite Iyyanar Kovil 2nd Street, Managiri, KK Nagar, Madurai, Tamil Nadu 625020",
+        "Hours": "Wednesday:[Open 24 hours],Thursday:[Open 24 hours],Friday:[Open 24 hours],Saturday:[Open 24 hours],Sunday:[Open 24 hours],Monday:[Open 24 hours],Tuesday:[Open 24 hours]",
+        "Location": "https://www.google.com/maps?cid=0x3b00c5b9f0f9d10b:0x96afdf3cd556a080",
+        "Latitude": 9.9297787,
+        "Longitude": 78.14342789999999
+    },
+    {
+        "Place_name": "M.S.Chellamuthu Institute of Mental Health & Rehabilitation Center",
+        "type": "Hospital",
+        "Phone": "096299 11357",
+        "Address1": "5th street, Plot 7, Lake Area Main Rd, near Maatuthavani, TTC Nagar, Madurai, Tamil Nadu 625107",
+        "Hours": "Wednesday:[10\u202fam-5\u202fpm],Thursday:[10\u202fam-5\u202fpm],Friday:[10\u202fam-5\u202fpm],Saturday:[10\u202fam-5\u202fpm],Sunday:[10\u202fam-5\u202fpm],Monday:[10\u202fam-5\u202fpm],Tuesday:[10\u202fam-5\u202fpm]",
+        "Location": "https://www.google.com/maps?cid=0x3b00c597c516f2ad:0x95bfcff4a6b473db",
+        "Latitude": 9.944110799999999,
+        "Longitude": 78.16032489999999
+    },
+    {
+        "Place_name": "Dr. Usha Nandini",
+        "type": "Hospital",
+        "Phone": "094898 71613",
+        "Address1": "MIG 562, Kurinji St, opposite Serfoji college, near PPDS, New Housing Unit, Thanjavur, Tamil Nadu 613007",
+        "Hours": "Wednesday:[Open 24 hours],Thursday:[Open 24 hours],Friday:[Open 24 hours],Saturday:[Open 24 hours],Sunday:[Open 24 hours],Monday:[Open 24 hours],Tuesday:[Open 24 hours]",
+        "Location": "https://www.google.com/maps?cid=0x3baab90cf95e166d:0x351e1b96949873c5",
+        "Latitude": 10.7505367,
+        "Longitude": 79.1155395
+    },
+    {
+        "Place_name": "Amuthu Psychology Counselling Centre",
+        "type": "Hospital",
+        "Phone": "087783 18766",
+        "Address1": "AA Complex, Medical College Rd, opposite to Pallivasal, Rahman Nagar, Thanjavur, Tamil Nadu 613004",
+        "Hours": "Wednesday:[10\u202fam-7\u202fpm],Thursday:[10\u202fam-7\u202fpm],Friday:[10\u202fam-7\u202fpm],Saturday:[10\u202fam-7\u202fpm],Sunday:[Closed],Monday:[10\u202fam-7\u202fpm],Tuesday:[10\u202fam-7\u202fpm]",
+        "Location": "https://www.google.com/maps?cid=0x3baabfd9dea423a3:0xe3b25858d8c0691e",
+        "Latitude": 10.7552598,
+        "Longitude": 79.1014503
+    },
+    {
+        "Place_name": "Focus counselling Center",
+        "type": "Hospital",
+        "Phone": "091138 94488",
+        "Address1": "Fathima Nagar Road, NK Rd, Thanjavur, Tamil Nadu 613001",
+        "Hours": "Wednesday:[10\u202fam-8:30\u202fpm],Thursday:[10\u202fam-8:30\u202fpm],Friday:[10\u202fam-8:30\u202fpm],Saturday:[10\u202fam-8:30\u202fpm],Sunday:[3:30-8:30\u202fpm],Monday:[10\u202fam-8:30\u202fpm],Tuesday:[10\u202fam-8:30\u202fpm]",
+        "Location": "https://www.google.com/maps?cid=0x3baab99b6e07323f:0x40dbbad54d54a73c",
+        "Latitude": 10.7689781,
+        "Longitude": 79.1425158
+    },
+    {
+        "Place_name": "Aaruthra Psychology Clinic",
+        "type": "Hospital",
+        "Phone": "096262 22211",
+        "Address1": "P4W6+59H, New bustand, near Meenakshi Hospital, Tamil Nadu",
+        "Hours": "",
+        "Location": "https://www.google.com/maps?cid=0x3baab901c833f081:0x5391e53bdd02eb29",
+        "Latitude": 10.7454485,
+        "Longitude": 79.1109975
+    },
+    {
+        "Place_name": "DR.J.Venkatesan",
+        "type": "Hospital",
+        "Phone": "04362 273 023",
+        "Address1": "Q4VH+GX7, N Main St, Mettu Theru, Thanjavur, Tamil Nadu 613008",
+        "Hours": "Wednesday:[6-8:30\u202fpm],Thursday:[6-8:30\u202fpm],Friday:[6-8:30\u202fpm],Saturday:[6-8:30\u202fpm],Sunday:[Closed],Monday:[6-8:30\u202fpm],Tuesday:[6-8:30\u202fpm]",
+        "Location": "https://www.google.com/maps?cid=0x3baac75dd7b145db:0xff3adaeaefcabd8f",
+        "Latitude": 10.7937991,
+        "Longitude": 79.1299081
+    },
+    {
+        "Place_name": "Mahizhchi Mental Health Care",
+        "type": "Hospital",
+        "Phone": "083007 59894",
+        "Address1": "bus stop, 4157, Ludukottai road, opp. RR Nagar, Kavery Nagar, Natarajan Nagar, South exton, Thanjavur, Tamil Nadu 613005",
+        "Hours": "Wednesday:[9:30\u202fam-1:30\u202fpm],Thursday:[9:30\u202fam-1:30\u202fpm],Friday:[9:30\u202fam-1:30\u202fpm],Saturday:[9:30\u202fam-1:30\u202fpm],Sunday:[Closed],Monday:[9:30\u202fam-1:30\u202fpm],Tuesday:[9:30\u202fam-1:30\u202fpm]",
+        "Location": "https://www.google.com/maps?cid=0x3baab995e78c4b25:0x9cb8fb7017939469",
+        "Latitude": 10.7493413,
+        "Longitude": 79.1179659
+    },
+    {
+        "Place_name": "NITHILAM MIND CARE AND CLINIC",
+        "type": "Hospital",
+        "Phone": "",
+        "Address1": "1723, Krishna Nagar, Krishnapuram, Thanjavur, Tamil Nadu 613004",
+        "Hours": "Wednesday:[4:25-8:30\u202fpm],Thursday:[4:25-8:30\u202fpm],Friday:[4:25-8:30\u202fpm],Saturday:[4:25-8:30\u202fpm],Sunday:[4:25-8:30\u202fpm],Monday:[4:25-8:30\u202fpm],Tuesday:[4:25-8:30\u202fpm]",
+        "Location": "https://www.google.com/maps?cid=0x3baabf001987ea21:0x7bafb03e43740706",
+        "Latitude": 10.757826699999999,
+        "Longitude": 79.09959719999999
+    },
+    {
+        "Place_name": "Dr.ILANGOVAN, Mind Clinic",
+        "type": "Hospital",
+        "Phone": "",
+        "Address1": "Second Cross Road, Karups Nagar, AVP Azhagammal Nagar, Thanjavur, Tamil Nadu 613005",
+        "Hours": "Wednesday:[10\u202fam-5\u202fpm],Thursday:[10\u202fam-5\u202fpm],Friday:[10\u202fam-5\u202fpm],Saturday:[10\u202fam-5\u202fpm],Sunday:[Closed],Monday:[10\u202fam-5\u202fpm],Tuesday:[10\u202fam-5\u202fpm]",
+        "Location": "https://www.google.com/maps?cid=0x3baab9abbe83c7d3:0xa1044ad2eb112908",
+        "Latitude": 10.7453179,
+        "Longitude": 79.109758
+    },
+    {
+        "Place_name": "Peafowl foundation",
+        "type": "Hospital",
+        "Phone": "",
+        "Address1": "Q45W+2VM, Rail Nagar, West Indra Nagar, Thanjavur, Tamil Nadu 613006",
+        "Hours": "",
+        "Location": "https://www.google.com/maps?cid=0x3baab9869ae6ea0f:0x8f313e75e6cb2bd3",
+        "Latitude": 10.757586,
+        "Longitude": 79.1471815
+    },
+    {
+        "Place_name": "Nathan clinic",
+        "type": "Hospital",
+        "Phone": "",
+        "Address1": "P4V6+X3W, AVP Azhagammal Nagar, Thanjavur, Tamil Nadu 613005",
+        "Hours": "",
+        "Location": "https://www.google.com/maps?cid=0x3baab9c283cb3685:0x3b068a71fdc808b9",
+        "Latitude": 10.7450034,
+        "Longitude": 79.1101972
+    },
+    {
+        "Place_name": "Dr. Usha Nandini",
+        "type": "Hospital",
+        "Phone": "",
+        "Address1": "OP No. 6, Vinodhagan Memorial Hospital, 3120 & 3121, Trichy Rd, VOC Nagar, Arulananda Nagar West Extension, Thanjavur, Tamil Nadu 613007",
+        "Hours": "Wednesday:[4-6\u202fpm],Thursday:[4-6\u202fpm],Friday:[4-6\u202fpm],Saturday:[Closed],Sunday:[Closed],Monday:[4-6\u202fpm],Tuesday:[4-6\u202fpm]",
+        "Location": "https://www.google.com/maps?cid=0x3baab9e536d688e3:0x427af3f0e9b54a3e",
+        "Latitude": 10.774268399999999,
+        "Longitude": 79.1361797
+    },
+    {
+        "Place_name": "Dheen medical center",
+        "type": "Hospital",
+        "Phone": "",
+        "Address1": "Q43C+H9Q, Marutham St, New Housing Unit, Thanjavur, Tamil Nadu 613007",
+        "Hours": "",
+        "Location": "https://www.google.com/maps?cid=0x3baab9320753dd97:0xa805bdb0ec8ef29",
+        "Latitude": 10.7539608,
+        "Longitude": 79.1209775
+    },
+    {
+        "Place_name": "Dr. Barathi Ganesh / SHRUTHI MEDICAL CENTRE",
+        "type": "Hospital",
+        "Phone": "",
+        "Address1": "Q4PJ+WMF, Rajakrisnapuram, Thanjavur, Tamil Nadu 613009",
+        "Hours": "Wednesday:[4-9\u202fpm],Thursday:[4-9\u202fpm],Friday:[4-9\u202fpm],Saturday:[4-9\u202fpm],Sunday:[Closed],Monday:[4-9\u202fpm],Tuesday:[4-9\u202fpm]",
+        "Location": "https://www.google.com/maps?cid=0x3baab900765c151f:0xab3e833e39b3a966",
+        "Latitude": 10.7873146,
+        "Longitude": 79.1316573
+    },
+    {
+        "Place_name": "Venkateshwara Pediatric Physiotherapy Clinic",
+        "type": "Hospital",
+        "Phone": "099942 39274",
+        "Address1": "Somu pilla complex, Giri Rd, Srinivasapuram, Balaganapathy Nagar, Thanjavur, Tamil Nadu 613009",
+        "Hours": "Wednesday:[10\u202fam-5\u202fpm],Thursday:[10\u202fam-5\u202fpm],Friday:[10\u202fam-5\u202fpm],Saturday:[10\u202fam-5\u202fpm],Sunday:[Closed],Monday:[10\u202fam-5\u202fpm],Tuesday:[10\u202fam-5\u202fpm]",
+        "Location": "https://www.google.com/maps?cid=0x3baab89fdc417ae5:0x14056599e8cb235a",
+        "Latitude": 10.7853853,
+        "Longitude": 79.1283097
+    },
+    {
+        "Place_name": "Nila Psychiatric Hospital | Rehabilitation Center | Thanjavur",
+        "type": "Hospital",
+        "Phone": "077087 09960",
+        "Address1": "Nila Psychiatric Hospital, Chennampatti Rd, Thanjavur, Vallam, Tamil Nadu 613403",
+        "Hours": "Wednesday:[9:30\u202fam-5\u202fpm],Thursday:[9:30\u202fam-5\u202fpm],Friday:[9:30\u202fam-5\u202fpm],Saturday:[9:30\u202fam-5\u202fpm],Sunday:[9:30\u202fam-5\u202fpm],Monday:[9:30\u202fam-5\u202fpm],Tuesday:[9:30\u202fam-5\u202fpm]",
+        "Location": "https://www.google.com/maps?cid=0x3baabe1b5de03861:0xafe036b1a2da5df2",
+        "Latitude": 10.704300199999999,
+        "Longitude": 79.0528736
+    },
+    {
+        "Place_name": "Saka institute of personalities",
+        "type": "Hospital",
+        "Phone": "098653 52525",
+        "Address1": "&, No.14/1.2nd floor,Pon Nagar 1st street, Medical College Rd, near Annamalai nagar, LIC Colony, Thanjavur, Tamil Nadu 613007",
+        "Hours": "Wednesday:[10\u202fam-1:30\u202fpm],Thursday:[10\u202fam-1:30\u202fpm],Friday:[10\u202fam-1:30\u202fpm],Saturday:[10\u202fam-1:30\u202fpm],Sunday:[Closed],Monday:[10\u202fam-1:30\u202fpm],Tuesday:[10\u202fam-1:30\u202fpm]",
+        "Location": "https://www.google.com/maps?cid=0x3baab89fe5112325:0xc3259cd2c902688e",
+        "Latitude": 10.777636399999999,
+        "Longitude": 79.1222496
+    },
+    {
+        "Place_name": "Kalai Lactation Consultant and Infant Massage Educator",
+        "type": "Hospital",
+        "Phone": "095977 98818",
+        "Address1": "44B, 44, 3rd Cross, Parisutham Nagar, Thanjavur, Tamil Nadu 613007",
+        "Hours": "Wednesday:[10\u202fam-12\u202fpm],Thursday:[10\u202fam-12\u202fpm],Friday:[Closed],Saturday:[9\u202fam-5\u202fpm],Sunday:[Closed],Monday:[10\u202fam-12\u202fpm],Tuesday:[10\u202fam-12\u202fpm]",
+        "Location": "https://www.google.com/maps?cid=0x3baab9fe5c782185:0x4596419ad10268c8",
+        "Latitude": 10.7666174,
+        "Longitude": 79.1374565
     }
 ]
