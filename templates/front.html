@@ -11,7 +11,7 @@
     <!-- Header -->
     <header>
       <div class="logo">
-        <img src="{{ url_for('static', filename='images/project_logo.jpg') }}" alt="Healthcare Assistant Logo"/>
+        <img src="{{ url_for('static', filename='images/mental_care_image.jpg') }}" alt="Healthcare Assistant Logo"/>
 
         <span>Mental Health Care</span>
       </div>
@@ -46,7 +46,7 @@
     <section class="hero">
       <h1 class="fade-in">Welcome to Your Mental Health Care Assistant</h1>
       <p class="fade-in-delay">
-        Your personal health companion, powered by AI.
+        Your personal Mental Health Care companion.
       </p>
       <a
         href="{{ url_for('render_bot_page') }}"
@@ -73,12 +73,11 @@
         <div class="feature zoom-in">
           <h3>🔬 Prediction</h3>
           <p>
-            Enter symptoms, and our AI predicts potential diseases using
-            advanced algorithms.
+            Predicts our mental health based on our face expressions.
           </p>
         </div>
         <div class="feature zoom-in">
-          <h3>Workouts</h3>
+          <h3>🧘Workouts</h3>
           <p>
             Receive recommended exercises to improve
             your meantal health.
@@ -87,7 +86,7 @@
         <div class="feature zoom-in">
           <h3>👨‍⚕️ Doctor Consultation</h3>
           <p>
-            Based on your symptoms, get recommendations on which specialist to
+            Based on your predictions, get recommendations on which specialist to
             consult.
           </p>
         </div>
@@ -96,8 +95,8 @@
 
     <!-- Call to Action -->
     <section class="cta-section fade-in">
-      <h2>🌟 Ready to Take Control of Your Health?</h2>
-      <p>Start your health assessment now and get AI-powered insights.</p>
+      <h2>🌟 Ready to Take Control of Your Mental Health?</h2>
+      <p>Start your mental wellness check now and get personalized insights to support your mind.</p>
       <a
         href="{{ url_for('render_login_page') }}"
         class="cta-button green-bg scale-up"
