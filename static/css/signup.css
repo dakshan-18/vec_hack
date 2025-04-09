@@ -3,7 +3,8 @@
   /* Signup Container */
   .signup-container {
     max-width: 500px;
-    margin: 60px auto;
+    /* margin: 60px auto; */
+    margin: 80px 20px 80px 20px;
     padding: 40px 30px;
     background: linear-gradient(to right, #e8f5e9, #e0f2f1);
     border-radius: 12px;

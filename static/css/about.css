@@ -111,3 +111,75 @@
       opacity: 1;
     }
   }
+  /* Media Queries for Responsive Design */
+
+/* Tablets (max width: 1024px) */
+@media (max-width: 1024px) {
+ .hero {
+  padding: 60px 15px;
+ }
+
+ .hero h1 {
+  font-size: 2.2rem;
+ }
+
+ .hero p {
+ font-size: 1.1rem;
+ }
+
+.about-content {
+ padding: 40px 20px;
+ }
+}
+
+/* Mobile Devices (max width: 768px) */
+@media (max-width: 768px) {
+.hero {
+ padding: 50px 10px;
+ }
+
+.hero h1 {
+ font-size: 1.8rem;
+ }
+
+.hero p {
+font-size: 1rem;
+}
+
+.about-content {
+padding: 30px 15px;
+ }
+
+.content-box {
+padding: 20px;
+ }
+
+.content-box h2 {
+font-size: 1.2rem;
+ }
+
+.content-box p,
+.content-box li {
+ font-size: 0.95rem;
+ }
+}
+
+/* Small Mobile Devices (max width: 480px) */
+@media (max-width: 480px) {
+.hero h1 {
+ font-size: 1.5rem;
+ }
+
+.hero p {
+ font-size: 0.95rem;
+ }
+
+.content-box h2 {
+ font-size: 1rem;
+ }
+
+.content-box p,
+.content-box li {
+ font-size: 0.9rem;
+ }
+}
