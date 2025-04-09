@@ -9,7 +9,7 @@ body {
 /* Header */
 header {
   background-color: #ffffff;
-  padding: 20px 40px;
+  padding: 20px 40px; 
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -62,4 +62,83 @@ nav a {
 
 .login-btn:hover {
   background-color: #212c3b;
+}
+@media (max-width: 1024px) {
+  .nav-actions {
+    flex-wrap: wrap;
+    gap: 20px;
+  }
+
+  nav ul {
+    flex-wrap: wrap;
+    gap: 20px;
+  }
+
+  .auth-buttons {
+    flex-wrap: nowrap;
+    gap: 8px;
+  }
+
+  .login-btn {
+    padding: 6px 12px;
+    font-size: 0.95rem;
+  }
+}
+
+/* Mobile Devices */
+@media (max-width: 768px) {
+  .nav-actions {
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    gap: 15px;
+  }
+
+  nav ul {
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 15px;
+  }
+
+  .auth-buttons {
+    flex-direction: row;
+    gap: 6px;
+  }
+
+  .login-btn {
+    padding: 5px 10px;
+    font-size: 0.9rem;
+  }
+}
+
+/* Small Mobile Devices */
+@media (max-width: 480px) {
+  .nav-actions {
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 10px;
+  }
+
+  nav ul {
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+  }
+
+  .auth-buttons {
+    flex-direction: row;
+    justify-content: center;
+    gap: 5px;
+  }
+
+  .login-btn {
+    padding: 4px 8px;
+    font-size: 0.85rem;
+  }
 }
