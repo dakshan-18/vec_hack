@@ -84,3 +84,8 @@
       font-weight: bold;
     }
   }
+  @media (max-width: 480px) {
+    #map {
+      height: 600px;
+    }
+  }
